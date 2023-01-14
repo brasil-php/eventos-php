@@ -2,6 +2,6 @@
 
 ## 2023
 
-| Data | Evento | Modalidade | Link |
-| --- | --- | --- | --- |
-| 04/02 | MeetuPHP com Rapadura | Presencial | http://meetup.phpcomrapadura.org/ |
+| Data | Evento | Modalidade | Link | Cidade - UF |
+| --- | --- | --- | --- | --- |
+| 04/02 | MeetuPHP com Rapadura | Presencial | http://meetup.phpcomrapadura.org/ | Fortaleza - CE |
