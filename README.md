@@ -4,7 +4,8 @@
 
 | Data | Evento | Modalidade | Link | Cidade - UF |
 | --- | --- | --- | --- | --- |
-| 19/01 | Beer.php MG           | Presencial | [Meetup Beer.php](https://www.meetup.com/pt-BR/php-mg/events/290922553) | Belo Horizonte - MG |
+| 19/01 | Beer.php MG | Presencial | [Meetup Beer.php](https://www.meetup.com/pt-BR/php-mg/events/290922553) | Belo Horizonte - MG |
+| 27/01 | Meetup PHP Rio | Presencial | [Meetup PHP Rio](https://www.meetup.com/pt-BR/php-rio/events/290767139/) | Rio de Janeiro - RJ |
 | 04/02 | MeetuPHP com Rapadura | Presencial | [MeetuPHP com Rapadura](http://meetup.phpcomrapadura.org/) | Fortaleza - CE |
 | 09/02 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
 | 09/03 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
