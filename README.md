@@ -8,6 +8,8 @@
 | 27/01 | Meetup PHP Rio | Presencial | [Meetup PHP Rio](https://www.meetup.com/pt-BR/php-rio/events/290767139/) | Rio de Janeiro - RJ |
 | 04/02 | MeetuPHP com Rapadura | Presencial | [MeetuPHP com Rapadura](http://meetup.phpcomrapadura.org/) | Fortaleza - CE |
 | 09/02 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
+| 10/02 | BotecoPHP | Presencial | [Meetup PHP Rio](https://www.meetup.com/pt-BR/php-rio/events/291469592) | Rio de Janeiro - RJ |
+| 03/03 | Meetup PHP Rio | Presencial | [Meetup PHP Rio](https://www.meetup.com/pt-BR/php-rio/events/291315790) | Rio de Janeiro - RJ |
 | 09/03 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
 | 13/04 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
 | 11/05 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
