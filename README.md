@@ -11,8 +11,8 @@
 | 10/02 | BotecoPHP | Presencial | [Meetup PHP Rio](https://www.meetup.com/pt-BR/php-rio/events/291469592) | Rio de Janeiro - RJ |
 | 13/02 | PHPMG Podcast | Online | [PHPMG Live](https://youtube.com/live/b3I-WoVKKNM?feature=share) |  |
 | 01/03 | 23º PHPMG Talks - PSR, HyperF e comunidades | Presencial | [Meetup PHPMG Talks](https://www.meetup.com/pt-BR/php-mg/events/291592989/) | Belo Horizonte - MG |
-| 08/03 | PHPinga | Presencial | [PHP com Rapadura](https://phpcomrapadura.org) | Fortaleza - CE |
 | 03/03 | Meetup PHP Rio | Presencial | [Meetup PHP Rio](https://www.meetup.com/pt-BR/php-rio/events/291315790) | Rio de Janeiro - RJ |
+| 08/03 | PHPinga | Presencial | [PHP com Rapadura](https://phpcomrapadura.org) | Fortaleza - CE |
 | 09/03 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
 | 16/03 | Beer.php MG | Presencial | [Meetup Beer.php](https://www.meetup.com/pt-BR/php-mg/events/291593663) | Belo Horizonte - MG |
 | 13/04 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
