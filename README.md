@@ -16,6 +16,7 @@
 | 09/03 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
 | 16/03 | Beer.php MG | Presencial | [Meetup Beer.php](https://www.meetup.com/pt-BR/php-mg/events/291593663) | Belo Horizonte - MG |
 | 13/04 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
+| 28/04 | Meetup PHP Rio | Presencial | [Meetup PHP Rio](https://www.meetup.com/pt-BR/php-rio/events/293116429/) | Rio de Janeiro - RJ |
 | 11/05 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
 | 08/06 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
 | 13/07 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
