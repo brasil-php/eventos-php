@@ -23,6 +23,7 @@
 | 29/07 | 1º PHP Velho Oeste | Presencial | [PHP Velho Oeste](http://phpvelhoeste.com.br/) | Chapecó - SC |
 | 10/08 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
 | 14/09 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
+| 28/09 e 29/09 | PHP Community Summit | Híbrido | [PHP Community Summit](https://php.locaweb.com.br)<br>[Chamada de palestras](https://bit.ly/cfp-phpcs-2023) | São Paulo - SP |
 | 06/10 | PHPeste | Presencial | [PHPeste 2023](https://www.phpeste.org/) | Fortaleza - CE |
 | 12/10 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
 | 09/11 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
