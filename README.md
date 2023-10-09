@@ -26,5 +26,6 @@
 | 28/09 e 29/09 | PHP Community Summit | Híbrido | [PHP Community Summit](https://php.locaweb.com.br)<br>[Chamada de palestras](https://bit.ly/cfp-phpcs-2023) | São Paulo - SP |
 | 06/10 | PHPeste | Presencial | [PHPeste 2023](https://www.phpeste.org/) | Fortaleza - CE |
 | 12/10 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
+| 13/10 | Boteco PHP | Presencial | [Meetup PHP Rio](https://www.meetup.com/php-rio/events/296590312/) | Rio de Janeiro - RJ |
 | 09/11 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
 | 14/12 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
