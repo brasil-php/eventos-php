@@ -28,4 +28,5 @@
 | 12/10 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
 | 13/10 | Boteco PHP | Presencial | [Meetup PHP Rio](https://www.meetup.com/php-rio/events/296590312/) | Rio de Janeiro - RJ |
 | 09/11 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
+| 07/12 a 09/12 | PHP Conference Brasil | Online & Presencial | [PHP Conference Brasil](https://phpconference.com.br/) | Pedra Branca - SC |
 | 14/12 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
