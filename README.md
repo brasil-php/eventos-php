@@ -33,3 +33,7 @@
 | 07/12 | PHP Conference Brasil | Híbrido | [PHP Conference Brasil](https://phpconference.com.br/) | Pedra Branca - SC |
 | 14/12 | PHPSC PUB | Presencial | [Meetup PHPSC Floripa](https://www.meetup.com/pt-BR/phpsc-floripa/events/) | Florianópolis - SC |
 | 14/12 | PHPSP + Pub | Presencial | [Meetup PHPSP](https://www.meetup.com/pt-BR/php-sp/events/) | São Paulo - SP |
+
+## 2025
+| 03/10 | PHPeste 2025 (O maior evento de PHP do Nordeste) | Presencial | [Site](https://phppiaui.com.br/) | Parnaíba - PI |
+
